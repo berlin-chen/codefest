@@ -10,5 +10,14 @@ body{
 header {
 	background: url(http://www.onthemoveto.ca/wp-content/uploads/2013/11/toronto-skyline.jpg);
 	background-size: cover;
-	height: tallvh;
+	height: tall;
 }
+
+.title {
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	text-align: center;
+	font-size: ;}
