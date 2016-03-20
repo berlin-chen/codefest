@@ -1,8 +1,12 @@
 # codefest
 HTML/CSS Tutorial w/Aashni Shah
 About to make an awesome website for codefest
-
+<html>
 <head>
+	<title>CodeFest</title>
+</head>
+<body>
 
-My name is Berlin
+</body>
+</html>
 Enter the Sun. 
